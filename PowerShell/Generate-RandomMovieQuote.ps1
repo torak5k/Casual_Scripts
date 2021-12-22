@@ -14,7 +14,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
    This script will randomly print on the screen quotes from Fight Club, V for Vendetta, and Rick and Morty. 
    In addition, the computer will actually say the quote aloud, so be sure that your speakers are turned on!
 .EXAMPLE
-   Point PowerShell to the location of the script, and run .\Generate-RandomMovieQuote
+   Point PowerShell to the location of the script, and run .\Generate-RandomMovieQuote.ps1
 #>
 
 # Asks user to make a selection of either 1, 2, 3, or Q.
